@@ -19,14 +19,14 @@ Tool use is where agent design becomes practical. It is also where risk increase
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| What is a tool? | How tools extend the model's abilities. | Planned |
-| Function calling | How models request structured actions. | Planned |
-| Tool schemas | How inputs, outputs, and constraints are described. | Planned |
-| Tool selection | How agents decide which tool to use. | Planned |
-| Tool safety | How permissions and approvals reduce risk. | Planned |
-| Error handling | How agents recover when tools fail or return bad output. | Planned |
+| What is a tool? | How tools extend the model's abilities. | Drafted |
+| Function calling | How models request structured actions. | Drafted |
+| Tool schemas | How inputs, outputs, and constraints are described. | Drafted |
+| Tool selection | How agents decide which tool to use. | Drafted |
+| Tool safety | Permissions, dangerous actions, and safe defaults. | Drafted |
+| Error handling | Retries, fallbacks, and recovery from bad tool output. | Drafted |
 
 ## Key Questions
 

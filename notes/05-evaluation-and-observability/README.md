@@ -19,14 +19,14 @@ An agent that works once is not enough. Evaluation and observability help answer
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| Evaluating agents | How to judge multi-step behavior. | Planned |
-| Test cases | How to build examples that catch regressions. | Planned |
-| Tracing and debugging | How to inspect decisions, tool calls, and failures. | Planned |
-| Security risks | Prompt injection, tool misuse, and data exposure. | Planned |
-| Cost and latency | Practical constraints in real systems. | Planned |
-| Human in the loop | Where approval and review improve reliability. | Planned |
+| Evaluating agents | How to test multi-step behavior. | Drafted |
+| Test cases | How to build examples that catch regressions. | Drafted |
+| Tracing and debugging | How to inspect decisions, tool calls, and failures. | Drafted |
+| Security risks | Prompt injection, tool misuse, and data exposure. | Drafted |
+| Cost and latency | Practical constraints in real systems. | Drafted |
+| Human in the loop | Where approval and review improve reliability. | Drafted |
 
 ## Key Questions
 
@@ -42,4 +42,4 @@ Before calling an agent reliable, I should be able to show test cases, traces, k
 
 ## Read Next
 
-After this section, revisit earlier notes and add evaluation thinking to each concept.
+After this section, use `../project-readiness-checklist.md` before starting the first real project.

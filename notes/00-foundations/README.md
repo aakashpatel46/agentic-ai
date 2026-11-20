@@ -17,12 +17,12 @@ Agentic AI can sound complicated because people mix together models, prompts, to
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| What is an agent? | Difference between chatbot, workflow, and agent. | Started |
-| LLM basics | Tokens, context, prompts, completions, and structured output. | Planned |
-| Agent loop | Observe, decide, act, inspect, stop. | Planned |
-| Glossary | Agentic AI terms in simple language. | Planned |
+| What is an agent? | Difference between chatbot, workflow, and agent. | Drafted |
+| LLM basics | Tokens, context, prompts, completions, and structured output. | Drafted |
+| Agent loop | Observe, decide, act, inspect, stop. | Drafted |
+| Glossary | Agentic AI terms in simple language. | Drafted |
 
 ## Key Questions
 

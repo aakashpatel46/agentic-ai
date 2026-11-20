@@ -19,14 +19,14 @@ Most useful agents need information that is not inside the model's current conte
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| RAG basics | How retrieval augments generation. | Planned |
-| Embeddings | How text becomes searchable as vectors. | Planned |
-| Chunking | How splitting documents changes retrieval quality. | Planned |
-| Vector search | How similar meaning is found. | Planned |
-| Agent memory | Short-term, long-term, episodic, and semantic memory. | Planned |
-| Retrieval evaluation | How to test whether the right context is retrieved. | Planned |
+| RAG basics | How retrieval augments generation. | Drafted |
+| Embeddings | How text becomes searchable as vectors. | Drafted |
+| Chunking | How document splitting affects retrieval quality. | Drafted |
+| Vector search | How similar meaning is found. | Drafted |
+| Agent memory | Short-term, long-term, episodic, and semantic memory. | Drafted |
+| Retrieval evaluation | How to test whether the right context is retrieved. | Drafted |
 
 ## Key Questions
 

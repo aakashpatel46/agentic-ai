@@ -19,14 +19,14 @@ Multiple agents sound powerful, but they are not automatically better. This sect
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| When to use multiple agents | Criteria for splitting work across agents. | Planned |
-| Manager-worker | One coordinator delegates to specialists. | Planned |
-| Planner-executor | One agent plans, another executes. | Planned |
-| Reviewer agents | Critique, validation, and quality checks. | Planned |
-| Handoffs | Passing context and responsibility between agents. | Planned |
-| Shared state | How agents coordinate without losing context. | Planned |
+| When to use multiple agents | Criteria for splitting work across agents. | Drafted |
+| Manager-worker | One coordinator delegates to specialists. | Drafted |
+| Planner-executor | One agent plans, another executes. | Drafted |
+| Reviewer agents | Critique, validation, and quality checks. | Drafted |
+| Handoffs | Passing context and responsibility between agents. | Drafted |
+| Shared state | How agents coordinate without losing context. | Drafted |
 
 ## Key Questions
 

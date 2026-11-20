@@ -18,13 +18,13 @@ An agent is not just a model call. It is a decision process. Patterns help descr
 
 ## Module Map
 
-| Topic | What It Should Explain | Status |
+| Topic | What It Explains | Status |
 |---|---|---|
-| ReAct | How reasoning and acting are interleaved. | Planned |
-| Planning vs workflows | When to let the model plan and when to predefine steps. | Planned |
-| Routing | How requests move to the right prompt, tool, or agent. | Planned |
-| Reflection | How self-checking can improve or degrade results. | Planned |
-| Structured outputs | Why schemas make behavior easier to parse and control. | Planned |
+| ReAct | How reasoning and acting are interleaved. | Drafted |
+| Planning vs workflows | When to let the model plan and when to predefine steps. | Drafted |
+| Routing | How agents choose between paths or tools. | Drafted |
+| Reflection | When self-review improves output and when it adds noise. | Drafted |
+| Structured outputs | Why schemas make behavior easier to parse and control. | Drafted |
 
 ## Key Questions
 
